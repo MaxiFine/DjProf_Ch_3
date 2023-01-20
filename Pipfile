@@ -8,6 +8,8 @@ django = "*"
 psycopg2 = "*"
 install = "*"
 django-crispy-forms = "*"
+django-allauth = "*"
+environs = {version = "==9.5.0", extras = ["django"]}
 
 [dev-packages]
 
